@@ -7,6 +7,32 @@ My code usually runs on ☁️ AWS, talks with 💳 Stripe, and serves 🚀 user
 
 ---
 
+## 🌐 Professional Summary  
+
+Software Engineer with **2.5 years of experience** specializing in **Ruby on Rails and Fullstack development**.  
+Proven track record in delivering **production-grade APIs, payment integrations (Stripe, Komoju), and scalable multi-tenant systems** across diverse industries.  
+
+### 🚀 Key Highlights
+- Engineered **17+ APIs in a single day**, accelerating feature delivery and team velocity.  
+- Resolved **800K+ staging errors**, implementing a Kubernetes-based solution adopted org-wide.  
+- Migrated a **legacy Django codebase to Rails**, boosting stability, performance, and maintainability.  
+
+### 🛠 Technical Expertise
+- **Backend:** Ruby on Rails (API & MVC), Golang (learning), Python Flask (microservices)  
+- **Frontend:** React.js, Redux, TypeScript, JavaScript (ES6+), Turbo  
+- **Cloud & DevOps:** Docker, Kubernetes, AWS (Lambda, SQS), Azure DevOps, Heroku  
+- **Databases & APIs:** PostgreSQL, Multi-DB setups, GraphQL, REST APIs, Secure System Design  
+- **Payments:** Stripe (webhooks, onboarding, payment flows), Komoju  
+
+### 🌍 Industry Experience
+Worked on projects in **banking, donation/community platforms, safety apps, e-commerce, insurance, and streaming services** — consistently delivering **high-impact, reliable, and scalable systems**.  
+
+### 🎯 Career Objective
+Passionate about **clean architecture, scalable distributed systems, and cloud-native applications**.  
+Currently expanding expertise in **Go (Golang)** to broaden backend capabilities.  
+📍 Based in Indore, India — seeking **global opportunities** in backend and fullstack engineering.   
+
+
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages & Frameworks
@@ -69,5 +95,13 @@ My code usually runs on ☁️ AWS, talks with 💳 Stripe, and serves 🚀 user
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/PatkiParth)  
 
 ---
+
+## 🎮 Beyond Code
+Outside of programming, I’m also a gamer & content creator.  
+Check out my channel 👉 [Torroido](https://youtube.com/Torroido)  
+
+Sometimes I believe debugging and gaming have the same rule:  
+**“Learn, adapt, and try again until you win.”** 🕹️🔥  
+
 
 ⭐️ From [Parth Patki](https://github.com/Torroido)  
