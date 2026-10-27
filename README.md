@@ -9,7 +9,7 @@ My code usually runs on ☁️ AWS, talks with 💳 Stripe, and serves 🚀 user
 
 ## 🌐 Professional Summary  
 
-Software Engineer with **2.5 years of experience** specializing in **Ruby on Rails and Fullstack development**.  
+Software Engineer with **3+ years of experience** specializing in **Ruby on Rails and Fullstack development**.  
 Proven track record in delivering **production-grade APIs, payment integrations (Stripe, Komoju), and scalable multi-tenant systems** across diverse industries.  
 
 ### 🚀 Key Highlights
